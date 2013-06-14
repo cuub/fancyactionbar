@@ -18,6 +18,10 @@ Demo
 
 [See demo here]
 
+![Alt text](/actionbar_top.png?raw=true)
+![Alt text](/actionbar_middle.png?raw=true)
+![Alt text](/actionbar_end.png?raw=true)
+
 
 License
 -
